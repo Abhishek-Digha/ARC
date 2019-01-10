@@ -7,7 +7,7 @@ import org.openqa.selenium.remote.RemoteWebDriver
 import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-System.setProperty("webdriver.gecko.driver","/opt/Katalon_Studio/configuration/resources/drivers/firefox_linux64/geckodriver")
+System.setProperty("webdriver.gecko.driver","/opt/Katalon_Studio/configuration/resources/drivers/chromedriver_linux64/chromedriver")
 //DesiredCapabilities cap = new DesiredCapabilities();
 //cap.setBrowserName("firefox");
 //WebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), cap);
