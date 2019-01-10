@@ -1,5 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
-ArcTest,,,2019-01-10 12:27:39,2019-01-10 12:28:24,44.976s,FAILED
-,,,,,,
-Test Cases/LoginArc,,,2019-01-10 12:27:39,2019-01-10 12:28:24,44.341s,FAILED
-openBrowser,,,2019-01-10 12:27:40,2019-01-10 12:28:24,43.941s,FAILED
