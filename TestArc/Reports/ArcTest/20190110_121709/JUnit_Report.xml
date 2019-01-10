@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ArcTest" time="55" tests="1" failures="0" errors="0">
+   <testsuite name="ArcTest" tests="1" failures="0" errors="0" time="55" timestamp="2019-01-10 12:17:11" hostname="Lenovo - G10GNLT049" id="Test Suites/ArcTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Lenovo\\Katalon Studio\\TestArc\\Reports\\ArcTest\\20190110_121709"/>
+         <property name="logFiles" value="C:\\Users\\Lenovo\\Katalon Studio\\TestArc\\Reports\\ArcTest\\20190110_121709\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Lenovo - G10GNLT049"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="172.18.0.227"/>
+         <property name="sessionId" value="ebab5238-8c48-45cd-9dcf-ac116f251462"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/LoginArc" classname="Test Cases/LoginArc" status="PASSED">
+         <system-out><![CDATA[2019-01-10 12:17:12 - [TEST_CASE][PASSED] - Test Cases/LoginArc: Test Cases/LoginArc
+
+2019-01-10 12:17:12 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2019-01-10 12:17:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-01-10 12:17:22 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://qas.arconline.io/' successfully
+
+2019-01-10 12:17:34 - [MESSAGE][PASSED] - Navigate to 'https://qas.arconline.io/' successfully
+
+2019-01-10 12:17:34 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2019-01-10 12:17:44 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2019-01-10 12:17:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/button_ACCEPT AND CLOSE' is clicked on
+
+2019-01-10 12:17:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/button_ACCEPT AND CLOSE' is clicked on
+
+2019-01-10 12:17:44 - [TEST_STEP][PASSED] - setText: Text 'usgbcarc@gmail.com' is set on object 'Object Repository/Page_Arc Skoru  Sustainability perf/input__name'
+
+2019-01-10 12:17:44 - [MESSAGE][PASSED] - Text 'usgbcarc@gmail.com' is set on object 'Object Repository/Page_Arc Skoru  Sustainability perf/input__name'
+
+2019-01-10 12:17:44 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_Arc Skoru  Sustainability perf/input__pass'
+
+2019-01-10 12:17:45 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Arc Skoru  Sustainability perf/input__pass'
+
+2019-01-10 12:17:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/input_Forgot Password_field_po' is clicked on
+
+2019-01-10 12:17:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/input_Forgot Password_field_po' is clicked on
+
+2019-01-10 12:17:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/button_Log in' is clicked on
+
+2019-01-10 12:17:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/button_Log in' is clicked on
+
+2019-01-10 12:17:50 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/span_Projects' is clicked on
+
+2019-01-10 12:18:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Arc Skoru  Sustainability perf/span_Projects' is clicked on
+
+2019-01-10 12:18:05 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2019-01-10 12:18:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-01-10 12:17:11 - [TEST_SUITE][PASSED] - ArcTest: Test Cases/LoginArc]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
