@@ -4,7 +4,7 @@
    <name>ArcTest</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2019-01-14T15:25:00</lastRun>
+   <lastRun>2019-01-14T16:01:26</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>

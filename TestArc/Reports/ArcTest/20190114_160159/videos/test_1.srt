@@ -1,0 +1,8 @@
+1
+00:00:00,442 --> 00:00:00,449
+1. Statement - java.lang.System.setProperty("webdriver.gecko.driver", "/opt/Katalon_Studio/configuration/resources/drivers/firefox_linux64/geckodriver")
+
+2
+00:00:00,533 --> 00:00:00,535
+5. openBrowser
+
