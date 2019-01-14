@@ -3,11 +3,13 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.remote.DesiredCapabilities
 import org.openqa.selenium.remote.RemoteWebDriver
-
+import org.openqa.selenium.firefox.FirefoxDriver
 import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-//System.setProperty("webdriver.gecko.driver","/opt/Katalon_Studio/configuration/resources/drivers/firefox_linux64/geckodriver")
+//System.setProperty("Dwebdriver.gecko.driver", "C:\\Users\\Lenovo\\Downloads\\Katalon_Studio_Windows_64-5.8.0\\configuration\\resources\\drivers\\firefox_win64\\geckodriver.exe")
+//WebDriver driver = new FirefoxDriver()
+//DriverFactory.changeWebDriver(driver)
 //DesiredCapabilities cap = new DesiredCapabilities();
 //cap.setBrowserName("firefox");
 //WebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), cap);
