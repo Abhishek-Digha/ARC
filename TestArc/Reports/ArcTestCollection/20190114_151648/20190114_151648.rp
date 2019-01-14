@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TestSuiteCollectionEntity>
+<ReportCollectionEntity>
    <description></description>
-   <name>ArcTestCollection</name>
+   <name>20190114_151648</name>
    <tag></tag>
-   <executionMode>SEQUENTIAL</executionMode>
-   <testSuiteRunConfigurations>
-      <TestSuiteRunConfiguration>
-         <configuration>
+   <displayName>20190114_151648</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/ArcTest/20190114_151648</reportLocation>
+         <runConfigDescription>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
             <runConfigurationData>
@@ -20,9 +21,7 @@
                </entry>
             </runConfigurationData>
             <runConfigurationId>Remote</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/ArcTest</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-   </testSuiteRunConfigurations>
-</TestSuiteCollectionEntity>
+         </runConfigDescription>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+</ReportCollectionEntity>

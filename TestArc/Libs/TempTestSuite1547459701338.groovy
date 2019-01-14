@@ -29,7 +29,7 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.c
 
 
 
-RunConfiguration.setExecutionSettingFile("E:\\ARC\\ARC\\TestArc\\Reports\\ArcTest\\20190114_135444\\execution.properties")
+RunConfiguration.setExecutionSettingFile("E:\\ARC\\ARC\\TestArc\\Reports\\ArcTest\\20190114_152500\\execution.properties")
 
 TestCaseMain.beforeStart()
 
