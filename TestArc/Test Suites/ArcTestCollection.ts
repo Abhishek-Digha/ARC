@@ -16,7 +16,7 @@
                </entry>
                <entry>
                   <key>remoteWebDriverUrl</key>
-                  <value>http://localhost:4444/wd/hub</value>
+                  <value>http://test.usgbc.org:4444/wd/hub</value>
                </entry>
             </runConfigurationData>
             <runConfigurationId>Remote</runConfigurationId>
