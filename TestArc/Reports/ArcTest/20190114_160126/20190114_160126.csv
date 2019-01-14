@@ -1,6 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
-ArcTest,,,2019-01-14 16:01:30,2019-01-14 16:01:35,5.092s,FAILED
-,,,,,,
-Test Cases/LoginArc,,,2019-01-14 16:01:30,2019-01-14 16:01:35,4.601s,FAILED
-"Statement - java.lang.System.setProperty(""webdriver.gecko.driver"", ""/opt/Katalon_Studio/configuration/resources/drivers/firefox_linux64/geckodriver"")",,,2019-01-14 16:01:31,2019-01-14 16:01:31,0.034s,PASSED
-openBrowser,,,2019-01-14 16:01:31,2019-01-14 16:01:33,1.858s,FAILED
