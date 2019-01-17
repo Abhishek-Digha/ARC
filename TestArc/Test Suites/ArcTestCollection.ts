@@ -3,23 +3,22 @@
    <description></description>
    <name>ArcTestCollection</name>
    <tag></tag>
-   <executionMode>SEQUENTIAL</executionMode>
+   <executionMode>PARALLEL</executionMode>
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <runConfigurationData>
-               <entry>
-                  <key>remoteWebDriverType</key>
-                  <value>Selenium</value>
-               </entry>
-               <entry>
-                  <key>remoteWebDriverUrl</key>
-                  <value>http://test.usgbc.org:4444/wd/hub</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>Remote</runConfigurationId>
+            <runConfigurationId>Firefox</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/ArcTest</testSuiteEntity>
+      </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/ArcTest</testSuiteEntity>
