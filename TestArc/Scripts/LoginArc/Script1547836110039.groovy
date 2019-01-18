@@ -16,6 +16,7 @@ import internal.GlobalVariable as GlobalVariable
 
 
 WebUI.openBrowser('https://qas.arconline.io/')
+WebUI.maximizeWindow()
 
 //WebUI.navigateToUrl('https://qas.arconline.io/')
 
