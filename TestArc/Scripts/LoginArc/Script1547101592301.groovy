@@ -1,14 +1,8 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-//System.setProperty("webdriver.gecko.driver", "/opt/Katalon_Studio/configuration/resources/drivers/firefox_linux64/geckodriver")
-//WebDriver driver = new FirefoxDriver()
-//DriverFactory.changeWebDriver(driver)
-//DesiredCapabilities cap = new DesiredCapabilities();
-//cap.setBrowserName("firefox");
-//WebDriver driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), cap);
 
-//Webdriver dr= DriverFactory.getWebDriverServerUrl(null)
 WebUI.openBrowser('https://qas.arconline.io/')
 
 //WebUI.navigateToUrl('https://qas.arconline.io/')
