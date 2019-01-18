@@ -1,10 +1,4 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-
-import org.openqa.selenium.WebDriver
-import org.openqa.selenium.remote.DesiredCapabilities
-import org.openqa.selenium.remote.RemoteWebDriver
-import org.openqa.selenium.firefox.FirefoxDriver
-import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
 //System.setProperty("webdriver.gecko.driver", "/opt/Katalon_Studio/configuration/resources/drivers/firefox_linux64/geckodriver")
