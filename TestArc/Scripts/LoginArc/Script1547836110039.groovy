@@ -26,7 +26,7 @@ WebUI.click(findTestObject('Object Repository/Page_Arc Skoru  Sustainability per
 
 WebUI.setText(findTestObject('Object Repository/Page_Arc Skoru  Sustainability perf/input__name'), 'usgbcarc@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Arc Skoru  Sustainability perf/input__pass'), 'k35wbLuhoDOfiKYe0IaeNQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Arc Skoru  Sustainability perf/input__pass'), 'initpass')
 
 WebUI.click(findTestObject('Object Repository/Page_Arc Skoru  Sustainability perf/input_Forgot Password_field_po'))
 
